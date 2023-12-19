@@ -5,7 +5,7 @@ on:
     types: [moved, converted, created, edited]
 
 jobs:
-  project_board_notifications:
+  apple:
     runs-on: ubuntu-latest
 
     steps:
